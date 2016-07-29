@@ -1,5 +1,5 @@
 bulid:
-image: python
+image: python:3.5
 script:
 - python hello.py
 -echo"Build has been completed."
