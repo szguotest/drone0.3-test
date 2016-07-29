@@ -1,3 +1,4 @@
+bulid:
 image: python
 script:
 - python hello.py
