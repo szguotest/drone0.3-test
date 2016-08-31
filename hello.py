@@ -8,4 +8,4 @@ def printhello(str):
 def printinfo(t):
 	return t<0
 
-printhello("This is a test demo...")
+print("This is a test demo...")
